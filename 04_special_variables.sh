@@ -4,7 +4,7 @@ echo "Number of variables passed: $#"
 echo "All variables passed: $@"
 echo "present working directory: $PWD"
 echo "current user home directory: $HOME"
-sleep 20&
+sleep 60&
 echo "which user is running the script: $USER"
 echo "process id of current script: $$"
 sleep 60
