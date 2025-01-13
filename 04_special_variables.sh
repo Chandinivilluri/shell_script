@@ -10,4 +10,4 @@ echo "process id of current script: $$"
 sleep 60
 echo "process id of last command which run in background: $!"
 echo "The output of command: $?"
-echo "The scrip name is: $0"
+echo "The script name is: $0"
